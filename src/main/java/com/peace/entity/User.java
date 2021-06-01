@@ -2,6 +2,7 @@ package com.peace.entity;
 
 /**
  * @author peace
+ * 用户对象
  */
 public class User {
     private String id;
